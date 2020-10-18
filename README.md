@@ -18,13 +18,17 @@ This project will use the Python graphing library MatPlotlib, which is a favorit
 3). The total number of drivers for each city type. 
   
 5. Create box-and-whisker plots that visualize each of the following to determine if there are any outliners:
-  1).The number of rides for each city type.
 
-  2).The fares for each city type.
+    1).The number of rides for each city type.
 
-  3). The number of drivers for each city type.
+    2).The fares for each city type.
+
+    3). The number of drivers for each city type.
 
 6. Create a pie chart that visualizes each of the following data for each city type:
+  
   1). The percent of total fares.
+  
   2). The percent of total rides.
+  
   3). The percent of total drivers. 
