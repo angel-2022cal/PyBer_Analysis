@@ -32,3 +32,6 @@ This project will use the Python graphing library MatPlotlib, which is a favorit
      2). The percent of total rides.
   
      3). The percent of total drivers. 
+     
+     
+![](Resources/Fig1)
