@@ -34,4 +34,4 @@ This project will use the Python graphing library MatPlotlib, which is a favorit
      3). The percent of total drivers. 
      
      
-![](Resources/Fig1)
+![Fig1](Resources/Fig1)
